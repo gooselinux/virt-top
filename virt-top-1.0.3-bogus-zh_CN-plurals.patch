@@ -1,0 +1,10 @@
+--- virt-top-1.0.3/po/zh_CN.po.orig	2008-10-21 10:51:15.000000000 +0100
++++ virt-top-1.0.3/po/zh_CN.po	2008-10-21 10:51:25.000000000 +0100
+@@ -14,7 +14,6 @@
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+ "X-Generator: KBabel 1.11.4\n"
+ 
+ #: ../virt-top/virt_top.ml:1492
